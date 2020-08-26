@@ -1,0 +1,1 @@
+# cloud-platform-sonar-scanner-cli-image
